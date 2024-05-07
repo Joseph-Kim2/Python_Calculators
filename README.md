@@ -12,6 +12,7 @@ This repository is dedicated to various Python scripts that function as calculat
 - `retirement_calc_exec.py`: Executable for the retirement calculator.
 
 ## Usage
+Many of the Python Scripts contain small description of script and variables and functions.
 To run any of the calculators, navigate to the script file and execute:
 ```bash
 python [script_name].py
