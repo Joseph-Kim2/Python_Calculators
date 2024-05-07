@@ -15,7 +15,8 @@ This repository is dedicated to various Python scripts that function as calculat
 Python 3
 
 ## Usage
-Many of the Python Scripts contain small description of script and variables and functions.
+- Many of the Python Scripts contain small description of script and variables and functions.
+- Any file with _exec are executor scripts used to excute the funtions of pair script
 To run any of the calculators, navigate to the script file and execute:
 ```bash
 python [script_name].py
