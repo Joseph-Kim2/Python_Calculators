@@ -1,4 +1,4 @@
-# Python Calculators :calculator:
+# Python Calculators :abacus:
 
 ## Overview
 This repository is dedicated to various Python scripts that function as calculators for different purposes including grade calculation, population growth estimation, and retirement planning.
