@@ -11,6 +11,9 @@ This repository is dedicated to various Python scripts that function as calculat
 - `retirement_calc.py`: Script to calculate retirement savings.
 - `retirement_calc_exec.py`: Executable for the retirement calculator.
 
+## Requirements
+Python 3
+
 ## Usage
 Many of the Python Scripts contain small description of script and variables and functions.
 To run any of the calculators, navigate to the script file and execute:
